@@ -21,8 +21,10 @@
     <ClCompile Include="Movie.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="Theater.h">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Theater.h">
       <Filter>Header Files</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>

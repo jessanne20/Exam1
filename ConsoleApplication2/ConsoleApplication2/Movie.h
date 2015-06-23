@@ -3,8 +3,6 @@
 using namespace std;
 
 class Movie{
-private:
-
 public:
 	Movie();
 	Movie(string Title, string Genre, int ShowTime);

@@ -1,6 +1,8 @@
 // I affirm that all code given below was written solely by me, Jessica Scruggs, and that
 // any help I received adhered to the rules stated for this exam.
 
+//Pete agrees that Jessica followed the rules.
+
 #include <iostream>
 #include "Movie.h"
 #include "Theater.h"
@@ -37,7 +39,7 @@ int main()
 	}
 	if (garland.GetShowTimeForGenre("Comedy") != 0); {
 		errors++;
-		cout << "error: incorrect COmedy\n";
+		cout << "error: incorrect Comedy\n";
 	}
 	if (errors == 0)
 		cout << "Passed\n";

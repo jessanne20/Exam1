@@ -78,7 +78,9 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Movie.h" />
-    <ClCompile Include="Theater.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Theater.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
